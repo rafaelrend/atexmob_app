@@ -1,0 +1,11 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "mensagem": "Mensagem da Notificação",
+      "lido": 0,
+      "titulo": "Título da Notificação",
+      "uid": 1
+    }
+  ]
+}
